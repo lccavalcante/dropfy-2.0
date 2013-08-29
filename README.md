@@ -3,8 +3,9 @@ dropfy-2.0
 
 Versão atualizada da Classe jQuery-Dropfy criada por [Guilherme Serrano](https://github.com/gserrano/jQuery-Dropfy)
 
-O dropfy-2.0 permite a criação de múltiplos selects customizados no mesmo arquivo, com suas funcionalidades individualizadas.
-A customização dele é feita como nos trechos de código abaixo:
+O dropfy-2.0 permite a criação de múltiplos selects customizados no mesmo arquivo e com suas funcionalidades individualizadas.
+
+A customização dele é feita conforme exemplo abaixo:
 
 
 ### HTML
