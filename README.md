@@ -13,7 +13,7 @@ Utiliza a classe fornecida como Tema.
 		<meta charset='utf-8'/>
 		<title>Sample</title>
 		<!-- CSS import -->
-		<link href='stylesheets/custom.css' rel='stylesheet'>
+		<link href='css/dropfy.css' rel='stylesheet'>
 		<!-- JS import -->
 		<script src="http://code.jquery.com/jquery-1.9.0.js"></script>
 		<script src="js/dropfy-2.0.js"></script>		
