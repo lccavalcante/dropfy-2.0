@@ -1,7 +1,7 @@
 dropfy - Custom Select DropDown
 ==========
 
-Plugin desenvolvido para customizar selects drop-down a partir da tag *<select>*.
+Plugin desenvolvido para customizar selects drop-down a partir da tag *select*.
 
 Vantagens de usar o Dropfy:
 * Desenvolvido para ser Acessível
