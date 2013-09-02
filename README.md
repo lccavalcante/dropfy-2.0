@@ -1,8 +1,11 @@
 dropfy-2.0
 ==========
 
-Componente para customização de campos do tipo Select.
-Utiliza a classe fornecida como Tema.
+Versão atualizada da Classe jQuery-Dropfy criada por [Guilherme Serrano](https://github.com/gserrano/jQuery-Dropfy)
+
+O dropfy-2.0 permite a criação de múltiplos selects customizados no mesmo arquivo e com suas funcionalidades individualizadas.
+
+A customização dele é feita conforme exemplo abaixo:
 
 
 ### HTML
