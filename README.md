@@ -50,7 +50,7 @@ JavaScript, chame o metodo dropfy():
 
 ## Documentação
 
-### Metodos
+### Métodos
 
 **onChange** : Captura o valor selecionado, exemplo:
 
