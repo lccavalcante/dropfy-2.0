@@ -63,4 +63,4 @@ JavaScript, chame o metodo dropfy():
 ```
 
 ###### Creditos
-iG Team
+iG Team - [gmoura](https://github.com/gmoura), [lccavalcante](https://github.com/lccavalcante)
