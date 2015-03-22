@@ -11,7 +11,7 @@
 		var 
 
 				_combobox  	   		= $(this).hide(),
-				_comboTheme 	 		= $(this).attr('class'),
+				_comboTheme 	 	= $(this).attr('class'),
 				_itemClass 	   		= '',
 				_selected  	   		= $(this).find("option:selected").text(),
 				_estrutura 	   		= $('<ul class="drop-extended"></ul>'),
